@@ -1,0 +1,1416 @@
+{
+    "processor": [
+        {
+            "name": "Intel core I5",
+            "type": "processor",
+            "gen": "9920X",
+            "num_processor": "i5-10210U",
+            "vertical_segment": "mobile",
+            "processor_base_frequency": "1.60 GHz",
+            "memory_types": "DDR4-2666, LPDDR3-2133",
+            "sockets": "FCBGA1528",
+            "price": [
+                {
+                    "shop": "citylink",
+                    "cost": 200,
+                    "currency": "rub",
+                    "last_data": "2020-05-03T18:09:05.207Z"
+                },
+                {
+                    "shop": "dns",
+                    "cost": 220,
+                    "currency": "rub",
+                    "last_data": "2020-05-03T18:09:05.207Z"
+                },
+                {
+                    "shop": "another magazine",
+                    "cost": 180,
+                    "currency": "rub",
+                    "last_data": "2020-05-03T18:09:05.207Z"
+                }
+            ]
+        },
+        {
+            "name": "Intel core I5",
+            "type": "processor",
+            "gen": "9920X",
+            "num_processor": "i5-10210U",
+            "vertical_segment": "mobile",
+            "processor_base_frequency": "1.60 GHz",
+            "memory_types": "DDR4-2666, LPDDR3-2133",
+            "sockets": "FCBGA1528",
+            "price": [
+                {
+                    "shop": "citylink",
+                    "cost": 200,
+                    "currency": "rub",
+                    "last_data": "2020-05-03T18:09:05.207Z"
+                },
+                {
+                    "shop": "dns",
+                    "cost": 220,
+                    "currency": "rub",
+                    "last_data": "2020-05-03T18:09:05.207Z"
+                },
+                {
+                    "shop": "another magazine",
+                    "cost": 180,
+                    "currency": "rub",
+                    "last_data": "2020-05-03T18:09:05.207Z"
+                }
+            ]
+        },
+        {
+            "name": "Intel core I5",
+            "type": "processor",
+            "gen": "9920X",
+            "num_processor": "i5-10210U",
+            "vertical_segment": "mobile",
+            "processor_base_frequency": "1.60 GHz",
+            "memory_types": "DDR4-2666, LPDDR3-2133",
+            "sockets": "FCBGA1528",
+            "price": [
+                {
+                    "shop": "citylink",
+                    "cost": 200,
+                    "currency": "rub",
+                    "last_data": "2020-05-03T18:09:05.207Z"
+                },
+                {
+                    "shop": "dns",
+                    "cost": 220,
+                    "currency": "rub",
+                    "last_data": "2020-05-03T18:09:05.207Z"
+                },
+                {
+                    "shop": "another magazine",
+                    "cost": 180,
+                    "currency": "rub",
+                    "last_data": "2020-05-03T18:09:05.207Z"
+                }
+            ]
+        },
+        {
+            "name": "Intel core I0",
+            "type": "processor",
+            "gen": "99s20X",
+            "num_processor": "i5-10210U",
+            "vertical_segment": "sfasdf",
+            "processor_base_frequency": "1.60 GHz",
+            "memory_types": "DDR4-2666, LPDDR3-2133",
+            "sockets": "FCBGA1528",
+            "price": [
+                {
+                    "shop": "citylink",
+                    "cost": 200,
+                    "currency": "rub",
+                    "last_data": "2020-05-03T18:09:05.207Z"
+                },
+                {
+                    "shop": "dns",
+                    "cost": 220,
+                    "currency": "rub",
+                    "last_data": "2020-05-03T18:09:05.207Z"
+                },
+                {
+                    "shop": "another magazine",
+                    "cost": 180,
+                    "currency": "rub",
+                    "last_data": "2020-05-03T18:09:05.207Z"
+                }
+            ]
+        },
+        {
+            "name": "Intel core I7",
+            "type": "processor",
+            "gen": "9920X",
+            "num_processor": "i5-10210U",
+            "vertical_segment": "mobile",
+            "processor_base_frequency": "1.60 GHz",
+            "memory_types": "DDR3-2666, LPDDR4-2133",
+            "sockets": "FCBGA1528",
+            "price": [
+                {
+                    "shop": "citylink",
+                    "cost": 200,
+                    "currency": "rub",
+                    "last_data": "2020-05-03T18:09:05.207Z"
+                },
+                {
+                    "shop": "dns",
+                    "cost": 220,
+                    "currency": "rub",
+                    "last_data": "2020-05-03T18:09:05.207Z"
+                },
+                {
+                    "shop": "another magazine",
+                    "cost": 180,
+                    "currency": "rub",
+                    "last_data": "2020-05-03T18:09:05.207Z"
+                }
+            ]
+        }
+    ],
+    "motherboard": [
+        {
+            "name": "motherboard0001",
+            "type": "motherboard",
+            "price": [
+                {
+                    "shop": "citylink",
+                    "cost": 200,
+                    "currency": "rub",
+                    "last_data": "2020-05-03T18:09:05.207Z"
+                },
+                {
+                    "shop": "dns",
+                    "cost": 220,
+                    "currency": "rub",
+                    "last_data": "2020-05-03T18:09:05.207Z"
+                },
+                {
+                    "shop": "another magazine",
+                    "cost": 180,
+                    "currency": "rub",
+                    "last_data": "2020-05-03T18:09:05.207Z"
+                }
+            ]
+        },
+        {
+            "name": "motherboard0002",
+            "type": "motherboard",
+            "price": [
+                {
+                    "shop": "citylink",
+                    "cost": 200,
+                    "currency": "rub",
+                    "last_data": "2020-05-03T18:09:05.207Z"
+                },
+                {
+                    "shop": "dns",
+                    "cost": 220,
+                    "currency": "rub",
+                    "last_data": "2020-05-03T18:09:05.207Z"
+                },
+                {
+                    "shop": "another magazine",
+                    "cost": 180,
+                    "currency": "rub",
+                    "last_data": "2020-05-03T18:09:05.207Z"
+                }
+            ]
+        },
+        {
+            "name": "motherboard0003",
+            "type": "motherboard",
+            "price": [
+                {
+                    "shop": "citylink",
+                    "cost": 200,
+                    "currency": "rub",
+                    "last_data": "2020-05-03T18:09:05.207Z"
+                },
+                {
+                    "shop": "dns",
+                    "cost": 220,
+                    "currency": "rub",
+                    "last_data": "2020-05-03T18:09:05.207Z"
+                },
+                {
+                    "shop": "another magazine",
+                    "cost": 180,
+                    "currency": "rub",
+                    "last_data": "2020-05-03T18:09:05.207Z"
+                }
+            ]
+        },
+        {
+            "name": "motherboard0004",
+            "type": "motherboard",
+            "price": [
+                {
+                    "shop": "citylink",
+                    "cost": 200,
+                    "currency": "rub",
+                    "last_data": "2020-05-03T18:09:05.207Z"
+                },
+                {
+                    "shop": "dns",
+                    "cost": 220,
+                    "currency": "rub",
+                    "last_data": "2020-05-03T18:09:05.207Z"
+                },
+                {
+                    "shop": "another magazine",
+                    "cost": 180,
+                    "currency": "rub",
+                    "last_data": "2020-05-03T18:09:05.207Z"
+                }
+            ]
+        },
+        {
+            "name": "motherboard0005",
+            "type": "motherboard",
+            "price": [
+                {
+                    "shop": "citylink",
+                    "cost": 200,
+                    "currency": "rub",
+                    "last_data": "2020-05-03T18:09:05.207Z"
+                },
+                {
+                    "shop": "dns",
+                    "cost": 220,
+                    "currency": "rub",
+                    "last_data": "2020-05-03T18:09:05.207Z"
+                },
+                {
+                    "shop": "another magazine",
+                    "cost": 180,
+                    "currency": "rub",
+                    "last_data": "2020-05-03T18:09:05.207Z"
+                }
+            ]
+        },
+        {
+            "name": "motherboard0006",
+            "type": "motherboard",
+            "price": [
+                {
+                    "shop": "citylink",
+                    "cost": 200,
+                    "currency": "rub",
+                    "last_data": "2020-05-03T18:09:05.207Z"
+                },
+                {
+                    "shop": "dns",
+                    "cost": 220,
+                    "currency": "rub",
+                    "last_data": "2020-05-03T18:09:05.207Z"
+                },
+                {
+                    "shop": "another magazine",
+                    "cost": 180,
+                    "currency": "rub",
+                    "last_data": "2020-05-03T18:09:05.207Z"
+                }
+            ]
+        }
+    ],
+    "graphics_card": [
+        {
+            "name": "Nvidia 1050",
+            "type": "graphics_card",
+            "price": [
+                {
+                    "shop": "citylink",
+                    "cost": 200,
+                    "currency": "rub",
+                    "last_data": "2020-05-03T18:09:05.207Z"
+                },
+                {
+                    "shop": "dns",
+                    "cost": 220,
+                    "currency": "rub",
+                    "last_data": "2020-05-03T18:09:05.207Z"
+                },
+                {
+                    "shop": "another magazine",
+                    "cost": 180,
+                    "currency": "rub",
+                    "last_data": "2020-05-03T18:09:05.207Z"
+                }
+            ]
+        },
+        {
+            "name": "Nvidia 1080ti",
+            "type": "graphics_card",
+            "price": [
+                {
+                    "shop": "citylink",
+                    "cost": 200,
+                    "currency": "rub",
+                    "last_data": "2020-05-03T18:09:05.207Z"
+                },
+                {
+                    "shop": "dns",
+                    "cost": 220,
+                    "currency": "rub",
+                    "last_data": "2020-05-03T18:09:05.207Z"
+                },
+                {
+                    "shop": "another magazine",
+                    "cost": 180,
+                    "currency": "rub",
+                    "last_data": "2020-05-03T18:09:05.207Z"
+                }
+            ]
+        },
+        {
+            "name": "Radeon RX560",
+            "type": "graphics_card",
+            "price": [
+                {
+                    "shop": "citylink",
+                    "cost": 200,
+                    "currency": "rub",
+                    "last_data": "2020-05-03T18:09:05.207Z"
+                },
+                {
+                    "shop": "dns",
+                    "cost": 220,
+                    "currency": "rub",
+                    "last_data": "2020-05-03T18:09:05.207Z"
+                },
+                {
+                    "shop": "another magazine",
+                    "cost": 180,
+                    "currency": "rub",
+                    "last_data": "2020-05-03T18:09:05.207Z"
+                }
+            ]
+        },
+        {
+            "name": "Nvidia 2050",
+            "type": "graphics_card",
+            "price": [
+                {
+                    "shop": "citylink",
+                    "cost": 200,
+                    "currency": "rub",
+                    "last_data": "2020-05-03T18:09:05.207Z"
+                },
+                {
+                    "shop": "dns",
+                    "cost": 220,
+                    "currency": "rub",
+                    "last_data": "2020-05-03T18:09:05.207Z"
+                },
+                {
+                    "shop": "another magazine",
+                    "cost": 180,
+                    "currency": "rub",
+                    "last_data": "2020-05-03T18:09:05.207Z"
+                }
+            ]
+        },
+        {
+            "name": "Nvidia 2060",
+            "type": "graphics_card",
+            "price": [
+                {
+                    "shop": "citylink",
+                    "cost": 200,
+                    "currency": "rub",
+                    "last_data": "2020-05-03T18:09:05.207Z"
+                },
+                {
+                    "shop": "dns",
+                    "cost": 220,
+                    "currency": "rub",
+                    "last_data": "2020-05-03T18:09:05.207Z"
+                },
+                {
+                    "shop": "another magazine",
+                    "cost": 180,
+                    "currency": "rub",
+                    "last_data": "2020-05-03T18:09:05.207Z"
+                }
+            ]
+        },
+        {
+            "name": "Nvidia 2070",
+            "type": "graphics_card",
+            "price": [
+                {
+                    "shop": "citylink",
+                    "cost": 200,
+                    "currency": "rub",
+                    "last_data": "2020-05-03T18:09:05.207Z"
+                },
+                {
+                    "shop": "dns",
+                    "cost": 220,
+                    "currency": "rub",
+                    "last_data": "2020-05-03T18:09:05.207Z"
+                },
+                {
+                    "shop": "another magazine",
+                    "cost": 180,
+                    "currency": "rub",
+                    "last_data": "2020-05-03T18:09:05.207Z"
+                }
+            ]
+        },
+        {
+            "name": "Nvidia 2080",
+            "type": "graphics_card",
+            "price": [
+                {
+                    "shop": "citylink",
+                    "cost": 200,
+                    "currency": "rub",
+                    "last_data": "2020-05-03T18:09:05.207Z"
+                },
+                {
+                    "shop": "dns",
+                    "cost": 220,
+                    "currency": "rub",
+                    "last_data": "2020-05-03T18:09:05.207Z"
+                },
+                {
+                    "shop": "another magazine",
+                    "cost": 180,
+                    "currency": "rub",
+                    "last_data": "2020-05-03T18:09:05.207Z"
+                }
+            ]
+        },
+        {
+            "name": "Nvidia 2080ti",
+            "type": "graphics_card",
+            "price": [
+                {
+                    "shop": "citylink",
+                    "cost": 200,
+                    "currency": "rub",
+                    "last_data": "2020-05-03T18:09:05.207Z"
+                },
+                {
+                    "shop": "dns",
+                    "cost": 220,
+                    "currency": "rub",
+                    "last_data": "2020-05-03T18:09:05.207Z"
+                },
+                {
+                    "shop": "another magazine",
+                    "cost": 180,
+                    "currency": "rub",
+                    "last_data": "2020-05-03T18:09:05.207Z"
+                }
+            ]
+        },
+        {
+            "name": "Radeon RX550",
+            "type": "graphics_card",
+            "price": [
+                {
+                    "shop": "citylink",
+                    "cost": 200,
+                    "currency": "rub",
+                    "last_data": "2020-05-03T18:09:05.207Z"
+                },
+                {
+                    "shop": "dns",
+                    "cost": 220,
+                    "currency": "rub",
+                    "last_data": "2020-05-03T18:09:05.207Z"
+                },
+                {
+                    "shop": "another magazine",
+                    "cost": 180,
+                    "currency": "rub",
+                    "last_data": "2020-05-03T18:09:05.207Z"
+                }
+            ]
+        },
+        {
+            "name": "Radeon RX570",
+            "type": "graphics_card",
+            "price": [
+                {
+                    "shop": "citylink",
+                    "cost": 200,
+                    "currency": "rub",
+                    "last_data": "2020-05-03T18:09:05.207Z"
+                },
+                {
+                    "shop": "dns",
+                    "cost": 220,
+                    "currency": "rub",
+                    "last_data": "2020-05-03T18:09:05.207Z"
+                },
+                {
+                    "shop": "another magazine",
+                    "cost": 180,
+                    "currency": "rub",
+                    "last_data": "2020-05-03T18:09:05.207Z"
+                }
+            ]
+        }
+    ],
+    "ram": [
+        {
+            "name": "ram0001",
+            "type": "ram",
+            "price": [
+                {
+                    "shop": "citylink",
+                    "cost": 200,
+                    "currency": "rub",
+                    "last_data": "2020-05-03T18:09:05.207Z"
+                },
+                {
+                    "shop": "dns",
+                    "cost": 220,
+                    "currency": "rub",
+                    "last_data": "2020-05-03T18:09:05.207Z"
+                },
+                {
+                    "shop": "another magazine",
+                    "cost": 180,
+                    "currency": "rub",
+                    "last_data": "2020-05-03T18:09:05.207Z"
+                }
+            ]
+        },
+        {
+            "name": "ram0002",
+            "type": "ram",
+            "price": [
+                {
+                    "shop": "citylink",
+                    "cost": 200,
+                    "currency": "rub",
+                    "last_data": "2020-05-03T18:09:05.207Z"
+                },
+                {
+                    "shop": "dns",
+                    "cost": 220,
+                    "currency": "rub",
+                    "last_data": "2020-05-03T18:09:05.207Z"
+                },
+                {
+                    "shop": "another magazine",
+                    "cost": 180,
+                    "currency": "rub",
+                    "last_data": "2020-05-03T18:09:05.207Z"
+                }
+            ]
+        },
+        {
+            "name": "ram0003",
+            "type": "ram",
+            "price": [
+                {
+                    "shop": "citylink",
+                    "cost": 200,
+                    "currency": "rub",
+                    "last_data": "2020-05-03T18:09:05.207Z"
+                },
+                {
+                    "shop": "dns",
+                    "cost": 220,
+                    "currency": "rub",
+                    "last_data": "2020-05-03T18:09:05.207Z"
+                },
+                {
+                    "shop": "another magazine",
+                    "cost": 180,
+                    "currency": "rub",
+                    "last_data": "2020-05-03T18:09:05.207Z"
+                }
+            ]
+        },
+        {
+            "name": "ram0004",
+            "type": "ram",
+            "price": [
+                {
+                    "shop": "citylink",
+                    "cost": 200,
+                    "currency": "rub",
+                    "last_data": "2020-05-03T18:09:05.207Z"
+                },
+                {
+                    "shop": "dns",
+                    "cost": 220,
+                    "currency": "rub",
+                    "last_data": "2020-05-03T18:09:05.207Z"
+                },
+                {
+                    "shop": "another magazine",
+                    "cost": 180,
+                    "currency": "rub",
+                    "last_data": "2020-05-03T18:09:05.207Z"
+                }
+            ]
+        },
+        {
+            "name": "ram0005",
+            "type": "ram",
+            "price": [
+                {
+                    "shop": "citylink",
+                    "cost": 200,
+                    "currency": "rub",
+                    "last_data": "2020-05-03T18:09:05.207Z"
+                },
+                {
+                    "shop": "dns",
+                    "cost": 220,
+                    "currency": "rub",
+                    "last_data": "2020-05-03T18:09:05.207Z"
+                },
+                {
+                    "shop": "another magazine",
+                    "cost": 180,
+                    "currency": "rub",
+                    "last_data": "2020-05-03T18:09:05.207Z"
+                }
+            ]
+        },
+        {
+            "name": "ram0006",
+            "type": "ram",
+            "price": [
+                {
+                    "shop": "citylink",
+                    "cost": 200,
+                    "currency": "rub",
+                    "last_data": "2020-05-03T18:09:05.207Z"
+                },
+                {
+                    "shop": "dns",
+                    "cost": 220,
+                    "currency": "rub",
+                    "last_data": "2020-05-03T18:09:05.207Z"
+                },
+                {
+                    "shop": "another magazine",
+                    "cost": 180,
+                    "currency": "rub",
+                    "last_data": "2020-05-03T18:09:05.207Z"
+                }
+            ]
+        }
+    ],
+    "cooling_system": [
+        {
+            "name": "cooling_system0001",
+            "type": "cooling_system",
+            "price": [
+                {
+                    "shop": "citylink",
+                    "cost": 200,
+                    "currency": "rub",
+                    "last_data": "2020-05-03T18:09:05.207Z"
+                },
+                {
+                    "shop": "dns",
+                    "cost": 220,
+                    "currency": "rub",
+                    "last_data": "2020-05-03T18:09:05.207Z"
+                },
+                {
+                    "shop": "another magazine",
+                    "cost": 180,
+                    "currency": "rub",
+                    "last_data": "2020-05-03T18:09:05.207Z"
+                }
+            ]
+        },
+        {
+            "name": "cooling_system0002",
+            "type": "cooling_system",
+            "price": [
+                {
+                    "shop": "citylink",
+                    "cost": 200,
+                    "currency": "rub",
+                    "last_data": "2020-05-03T18:09:05.207Z"
+                },
+                {
+                    "shop": "dns",
+                    "cost": 220,
+                    "currency": "rub",
+                    "last_data": "2020-05-03T18:09:05.207Z"
+                },
+                {
+                    "shop": "another magazine",
+                    "cost": 180,
+                    "currency": "rub",
+                    "last_data": "2020-05-03T18:09:05.207Z"
+                }
+            ]
+        },
+        {
+            "name": "cooling_system0003",
+            "type": "cooling_system",
+            "price": [
+                {
+                    "shop": "citylink",
+                    "cost": 200,
+                    "currency": "rub",
+                    "last_data": "2020-05-03T18:09:05.207Z"
+                },
+                {
+                    "shop": "dns",
+                    "cost": 220,
+                    "currency": "rub",
+                    "last_data": "2020-05-03T18:09:05.207Z"
+                },
+                {
+                    "shop": "another magazine",
+                    "cost": 180,
+                    "currency": "rub",
+                    "last_data": "2020-05-03T18:09:05.207Z"
+                }
+            ]
+        },
+        {
+            "name": "cooling_system0004",
+            "type": "cooling_system",
+            "price": [
+                {
+                    "shop": "citylink",
+                    "cost": 200,
+                    "currency": "rub",
+                    "last_data": "2020-05-03T18:09:05.207Z"
+                },
+                {
+                    "shop": "dns",
+                    "cost": 220,
+                    "currency": "rub",
+                    "last_data": "2020-05-03T18:09:05.207Z"
+                },
+                {
+                    "shop": "another magazine",
+                    "cost": 180,
+                    "currency": "rub",
+                    "last_data": "2020-05-03T18:09:05.207Z"
+                }
+            ]
+        },
+        {
+            "name": "cooling_system0005",
+            "type": "cooling_system",
+            "price": [
+                {
+                    "shop": "citylink",
+                    "cost": 200,
+                    "currency": "rub",
+                    "last_data": "2020-05-03T18:09:05.207Z"
+                },
+                {
+                    "shop": "dns",
+                    "cost": 220,
+                    "currency": "rub",
+                    "last_data": "2020-05-03T18:09:05.207Z"
+                },
+                {
+                    "shop": "another magazine",
+                    "cost": 180,
+                    "currency": "rub",
+                    "last_data": "2020-05-03T18:09:05.207Z"
+                }
+            ]
+        },
+        {
+            "name": "cooling_system0006",
+            "type": "cooling_system",
+            "price": [
+                {
+                    "shop": "citylink",
+                    "cost": 200,
+                    "currency": "rub",
+                    "last_data": "2020-05-03T18:09:05.207Z"
+                },
+                {
+                    "shop": "dns",
+                    "cost": 220,
+                    "currency": "rub",
+                    "last_data": "2020-05-03T18:09:05.207Z"
+                },
+                {
+                    "shop": "another magazine",
+                    "cost": 180,
+                    "currency": "rub",
+                    "last_data": "2020-05-03T18:09:05.207Z"
+                }
+            ]
+        }
+    ],
+    "power_supply": [
+        {
+            "name": "power_supply0001",
+            "type": "power_supply",
+            "price": [
+                {
+                    "shop": "citylink",
+                    "cost": 200,
+                    "currency": "rub",
+                    "last_data": "2020-05-03T18:09:05.207Z"
+                },
+                {
+                    "shop": "dns",
+                    "cost": 220,
+                    "currency": "rub",
+                    "last_data": "2020-05-03T18:09:05.207Z"
+                },
+                {
+                    "shop": "another magazine",
+                    "cost": 180,
+                    "currency": "rub",
+                    "last_data": "2020-05-03T18:09:05.207Z"
+                }
+            ]
+        },
+        {
+            "name": "power_supply0002",
+            "type": "power_supply",
+            "price": [
+                {
+                    "shop": "citylink",
+                    "cost": 200,
+                    "currency": "rub",
+                    "last_data": "2020-05-03T18:09:05.207Z"
+                },
+                {
+                    "shop": "dns",
+                    "cost": 220,
+                    "currency": "rub",
+                    "last_data": "2020-05-03T18:09:05.207Z"
+                },
+                {
+                    "shop": "another magazine",
+                    "cost": 180,
+                    "currency": "rub",
+                    "last_data": "2020-05-03T18:09:05.207Z"
+                }
+            ]
+        },
+        {
+            "name": "power_supply0003",
+            "type": "power_supply",
+            "price": [
+                {
+                    "shop": "citylink",
+                    "cost": 200,
+                    "currency": "rub",
+                    "last_data": "2020-05-03T18:09:05.207Z"
+                },
+                {
+                    "shop": "dns",
+                    "cost": 220,
+                    "currency": "rub",
+                    "last_data": "2020-05-03T18:09:05.207Z"
+                },
+                {
+                    "shop": "another magazine",
+                    "cost": 180,
+                    "currency": "rub",
+                    "last_data": "2020-05-03T18:09:05.207Z"
+                }
+            ]
+        },
+        {
+            "name": "power_supply0004",
+            "type": "power_supply",
+            "price": [
+                {
+                    "shop": "citylink",
+                    "cost": 200,
+                    "currency": "rub",
+                    "last_data": "2020-05-03T18:09:05.207Z"
+                },
+                {
+                    "shop": "dns",
+                    "cost": 220,
+                    "currency": "rub",
+                    "last_data": "2020-05-03T18:09:05.207Z"
+                },
+                {
+                    "shop": "another magazine",
+                    "cost": 180,
+                    "currency": "rub",
+                    "last_data": "2020-05-03T18:09:05.207Z"
+                }
+            ]
+        },
+        {
+            "name": "power_supply0005",
+            "type": "power_supply",
+            "price": [
+                {
+                    "shop": "citylink",
+                    "cost": 200,
+                    "currency": "rub",
+                    "last_data": "2020-05-03T18:09:05.207Z"
+                },
+                {
+                    "shop": "dns",
+                    "cost": 220,
+                    "currency": "rub",
+                    "last_data": "2020-05-03T18:09:05.207Z"
+                },
+                {
+                    "shop": "another magazine",
+                    "cost": 180,
+                    "currency": "rub",
+                    "last_data": "2020-05-03T18:09:05.207Z"
+                }
+            ]
+        },
+        {
+            "name": "power_supply0006",
+            "type": "power_supply",
+            "price": [
+                {
+                    "shop": "citylink",
+                    "cost": 200,
+                    "currency": "rub",
+                    "last_data": "2020-05-03T18:09:05.207Z"
+                },
+                {
+                    "shop": "dns",
+                    "cost": 220,
+                    "currency": "rub",
+                    "last_data": "2020-05-03T18:09:05.207Z"
+                },
+                {
+                    "shop": "another magazine",
+                    "cost": 180,
+                    "currency": "rub",
+                    "last_data": "2020-05-03T18:09:05.207Z"
+                }
+            ]
+        }
+    ],
+    "case_block": [
+        {
+            "name": "case_block0001",
+            "type": "case_block",
+            "price": [
+                {
+                    "shop": "citylink",
+                    "cost": 200,
+                    "currency": "rub",
+                    "last_data": "2020-05-03T18:09:05.207Z"
+                },
+                {
+                    "shop": "dns",
+                    "cost": 220,
+                    "currency": "rub",
+                    "last_data": "2020-05-03T18:09:05.207Z"
+                },
+                {
+                    "shop": "another magazine",
+                    "cost": 180,
+                    "currency": "rub",
+                    "last_data": "2020-05-03T18:09:05.207Z"
+                }
+            ]
+        },
+        {
+            "name": "case_block0002",
+            "type": "case_block",
+            "price": [
+                {
+                    "shop": "citylink",
+                    "cost": 200,
+                    "currency": "rub",
+                    "last_data": "2020-05-03T18:09:05.207Z"
+                },
+                {
+                    "shop": "dns",
+                    "cost": 220,
+                    "currency": "rub",
+                    "last_data": "2020-05-03T18:09:05.207Z"
+                },
+                {
+                    "shop": "another magazine",
+                    "cost": 180,
+                    "currency": "rub",
+                    "last_data": "2020-05-03T18:09:05.207Z"
+                }
+            ]
+        },
+        {
+            "name": "case_block0003",
+            "type": "case_block",
+            "price": [
+                {
+                    "shop": "citylink",
+                    "cost": 200,
+                    "currency": "rub",
+                    "last_data": "2020-05-03T18:09:05.207Z"
+                },
+                {
+                    "shop": "dns",
+                    "cost": 220,
+                    "currency": "rub",
+                    "last_data": "2020-05-03T18:09:05.207Z"
+                },
+                {
+                    "shop": "another magazine",
+                    "cost": 180,
+                    "currency": "rub",
+                    "last_data": "2020-05-03T18:09:05.207Z"
+                }
+            ]
+        },
+        {
+            "name": "case_block0004",
+            "type": "case_block",
+            "price": [
+                {
+                    "shop": "citylink",
+                    "cost": 200,
+                    "currency": "rub",
+                    "last_data": "2020-05-03T18:09:05.207Z"
+                },
+                {
+                    "shop": "dns",
+                    "cost": 220,
+                    "currency": "rub",
+                    "last_data": "2020-05-03T18:09:05.207Z"
+                },
+                {
+                    "shop": "another magazine",
+                    "cost": 180,
+                    "currency": "rub",
+                    "last_data": "2020-05-03T18:09:05.207Z"
+                }
+            ]
+        },
+        {
+            "name": "case_block0005",
+            "type": "case_block",
+            "price": [
+                {
+                    "shop": "citylink",
+                    "cost": 200,
+                    "currency": "rub",
+                    "last_data": "2020-05-03T18:09:05.207Z"
+                },
+                {
+                    "shop": "dns",
+                    "cost": 220,
+                    "currency": "rub",
+                    "last_data": "2020-05-03T18:09:05.207Z"
+                },
+                {
+                    "shop": "another magazine",
+                    "cost": 180,
+                    "currency": "rub",
+                    "last_data": "2020-05-03T18:09:05.207Z"
+                }
+            ]
+        },
+        {
+            "name": "case_block0006",
+            "type": "case_block",
+            "price": [
+                {
+                    "shop": "citylink",
+                    "cost": 200,
+                    "currency": "rub",
+                    "last_data": "2020-05-03T18:09:05.207Z"
+                },
+                {
+                    "shop": "dns",
+                    "cost": 220,
+                    "currency": "rub",
+                    "last_data": "2020-05-03T18:09:05.207Z"
+                },
+                {
+                    "shop": "another magazine",
+                    "cost": 180,
+                    "currency": "rub",
+                    "last_data": "2020-05-03T18:09:05.207Z"
+                }
+            ]
+        }
+    ],
+    "periphery": [
+        {
+            "name": "periphery0001",
+            "type": "periphery",
+            "price": [
+                {
+                    "shop": "citylink",
+                    "cost": 200,
+                    "currency": "rub",
+                    "last_data": "2020-05-03T18:09:05.207Z"
+                },
+                {
+                    "shop": "dns",
+                    "cost": 220,
+                    "currency": "rub",
+                    "last_data": "2020-05-03T18:09:05.207Z"
+                },
+                {
+                    "shop": "another magazine",
+                    "cost": 180,
+                    "currency": "rub",
+                    "last_data": "2020-05-03T18:09:05.207Z"
+                }
+            ]
+        },
+        {
+            "name": "periphery0002",
+            "type": "periphery",
+            "price": [
+                {
+                    "shop": "citylink",
+                    "cost": 200,
+                    "currency": "rub",
+                    "last_data": "2020-05-03T18:09:05.207Z"
+                },
+                {
+                    "shop": "dns",
+                    "cost": 220,
+                    "currency": "rub",
+                    "last_data": "2020-05-03T18:09:05.207Z"
+                },
+                {
+                    "shop": "another magazine",
+                    "cost": 180,
+                    "currency": "rub",
+                    "last_data": "2020-05-03T18:09:05.207Z"
+                }
+            ]
+        },
+        {
+            "name": "periphery0003",
+            "type": "periphery",
+            "price": [
+                {
+                    "shop": "citylink",
+                    "cost": 200,
+                    "currency": "rub",
+                    "last_data": "2020-05-03T18:09:05.207Z"
+                },
+                {
+                    "shop": "dns",
+                    "cost": 220,
+                    "currency": "rub",
+                    "last_data": "2020-05-03T18:09:05.207Z"
+                },
+                {
+                    "shop": "another magazine",
+                    "cost": 180,
+                    "currency": "rub",
+                    "last_data": "2020-05-03T18:09:05.207Z"
+                }
+            ]
+        },
+        {
+            "name": "periphery0004",
+            "type": "periphery",
+            "price": [
+                {
+                    "shop": "citylink",
+                    "cost": 200,
+                    "currency": "rub",
+                    "last_data": "2020-05-03T18:09:05.207Z"
+                },
+                {
+                    "shop": "dns",
+                    "cost": 220,
+                    "currency": "rub",
+                    "last_data": "2020-05-03T18:09:05.207Z"
+                },
+                {
+                    "shop": "another magazine",
+                    "cost": 180,
+                    "currency": "rub",
+                    "last_data": "2020-05-03T18:09:05.207Z"
+                }
+            ]
+        },
+        {
+            "name": "periphery0005",
+            "type": "periphery",
+            "price": [
+                {
+                    "shop": "citylink",
+                    "cost": 200,
+                    "currency": "rub",
+                    "last_data": "2020-05-03T18:09:05.207Z"
+                },
+                {
+                    "shop": "dns",
+                    "cost": 220,
+                    "currency": "rub",
+                    "last_data": "2020-05-03T18:09:05.207Z"
+                },
+                {
+                    "shop": "another magazine",
+                    "cost": 180,
+                    "currency": "rub",
+                    "last_data": "2020-05-03T18:09:05.207Z"
+                }
+            ]
+        },
+        {
+            "name": "periphery0006",
+            "type": "periphery",
+            "price": [
+                {
+                    "shop": "citylink",
+                    "cost": 200,
+                    "currency": "rub",
+                    "last_data": "2020-05-03T18:09:05.207Z"
+                },
+                {
+                    "shop": "dns",
+                    "cost": 220,
+                    "currency": "rub",
+                    "last_data": "2020-05-03T18:09:05.207Z"
+                },
+                {
+                    "shop": "another magazine",
+                    "cost": 180,
+                    "currency": "rub",
+                    "last_data": "2020-05-03T18:09:05.207Z"
+                }
+            ]
+        },
+        {
+            "name": "periphery0011",
+            "type": "periphery",
+            "price": [
+                {
+                    "shop": "citylink",
+                    "cost": 200,
+                    "currency": "rub",
+                    "last_data": "2020-05-03T18:09:05.207Z"
+                },
+                {
+                    "shop": "dns",
+                    "cost": 220,
+                    "currency": "rub",
+                    "last_data": "2020-05-03T18:09:05.207Z"
+                },
+                {
+                    "shop": "another magazine",
+                    "cost": 180,
+                    "currency": "rub",
+                    "last_data": "2020-05-03T18:09:05.207Z"
+                }
+            ]
+        },
+        {
+            "name": "periphery0022",
+            "type": "periphery",
+            "price": [
+                {
+                    "shop": "citylink",
+                    "cost": 200,
+                    "currency": "rub",
+                    "last_data": "2020-05-03T18:09:05.207Z"
+                },
+                {
+                    "shop": "dns",
+                    "cost": 220,
+                    "currency": "rub",
+                    "last_data": "2020-05-03T18:09:05.207Z"
+                },
+                {
+                    "shop": "another magazine",
+                    "cost": 180,
+                    "currency": "rub",
+                    "last_data": "2020-05-03T18:09:05.207Z"
+                }
+            ]
+        },
+        {
+            "name": "periphery0033",
+            "type": "periphery",
+            "price": [
+                {
+                    "shop": "citylink",
+                    "cost": 200,
+                    "currency": "rub",
+                    "last_data": "2020-05-03T18:09:05.207Z"
+                },
+                {
+                    "shop": "dns",
+                    "cost": 220,
+                    "currency": "rub",
+                    "last_data": "2020-05-03T18:09:05.207Z"
+                },
+                {
+                    "shop": "another magazine",
+                    "cost": 180,
+                    "currency": "rub",
+                    "last_data": "2020-05-03T18:09:05.207Z"
+                }
+            ]
+        },
+        {
+            "name": "periphery0044",
+            "type": "periphery",
+            "price": [
+                {
+                    "shop": "citylink",
+                    "cost": 200,
+                    "currency": "rub",
+                    "last_data": "2020-05-03T18:09:05.207Z"
+                },
+                {
+                    "shop": "dns",
+                    "cost": 220,
+                    "currency": "rub",
+                    "last_data": "2020-05-03T18:09:05.207Z"
+                },
+                {
+                    "shop": "another magazine",
+                    "cost": 180,
+                    "currency": "rub",
+                    "last_data": "2020-05-03T18:09:05.207Z"
+                }
+            ]
+        },
+        {
+            "name": "periphery055",
+            "type": "periphery",
+            "price": [
+                {
+                    "shop": "citylink",
+                    "cost": 200,
+                    "currency": "rub",
+                    "last_data": "2020-05-03T18:09:05.207Z"
+                },
+                {
+                    "shop": "dns",
+                    "cost": 220,
+                    "currency": "rub",
+                    "last_data": "2020-05-03T18:09:05.207Z"
+                },
+                {
+                    "shop": "another magazine",
+                    "cost": 180,
+                    "currency": "rub",
+                    "last_data": "2020-05-03T18:09:05.207Z"
+                }
+            ]
+        },
+        {
+            "name": "periphery0066",
+            "type": "periphery",
+            "price": [
+                {
+                    "shop": "citylink",
+                    "cost": 200,
+                    "currency": "rub",
+                    "last_data": "2020-05-03T18:09:05.207Z"
+                },
+                {
+                    "shop": "dns",
+                    "cost": 220,
+                    "currency": "rub",
+                    "last_data": "2020-05-03T18:09:05.207Z"
+                },
+                {
+                    "shop": "another magazine",
+                    "cost": 180,
+                    "currency": "rub",
+                    "last_data": "2020-05-03T18:09:05.207Z"
+                }
+            ]
+        }
+    ]
+}
